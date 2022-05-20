@@ -25,6 +25,10 @@ body {
   border-radius: 50%;
 }
 
+.judul {
+  margin-top: 15px;
+}
+
 .content {
   margin-top: 50px;
   margin-bottom: 50px;
