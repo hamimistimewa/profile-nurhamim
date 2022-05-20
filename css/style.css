@@ -8,7 +8,7 @@ body {
   background: #333842;
   color: #ffffff;
   font-family: 'Fira Code', monospace;
-  font-size: 20px;
+  font-size: 18px;
 }
 
 .container {
@@ -28,7 +28,7 @@ body {
 .content {
   margin-top: 50px;
   margin-bottom: 50px;
-  line-height: 35px;
+  line-height: 30px;
 }
 
 .line {
@@ -37,7 +37,7 @@ body {
 
 .number {
   opacity: 0.3;
-  margin-right: 30px;
+  margin-right: 20px;
 }
 
 .empty-line .number-5 {
@@ -53,20 +53,20 @@ body {
 }
 
 .text {
-  letter-spacing: 2px;
+  letter-spacing: 1px;
 }
 
 .text mark {
   background: transparent;
   color: #ffccaa;
-  letter-spacing: 3px;
+  letter-spacing: 1px;
 }
 
 .social li {
   display: inline-block;
-  font-size: 25px;
-  padding-left: 15px;
-  padding-right: 15px;
+  font-size: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 .social a {
